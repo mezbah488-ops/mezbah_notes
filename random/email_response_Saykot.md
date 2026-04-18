@@ -2,7 +2,7 @@ Things to check:
 
 1. the validity of the statement that for W-states measuring its qubits is almost like having independent bits. I am not so sure of that, for there are indeed certainly correlations amongst the qubits. It's weaker than GHZ when Mermin inequality is used. However if it were indeed like almost independent bits, then it could not be put to use at all. But we know that W-states is of great utility.
 
-2. if the device-independent QKD (DI-QKD) is typically a continuous-variable protocol or discrete-variable? Sykot says it's typically the continuous-variable one. But my search shows that it's rather the discrete-variable one. My question is, if device-independent QKD can be made to be discrete-variable one, then can one extend this scheme there? 
+2. if the device-independent QKD (DI-QKD) is typically a continuous-variable protocol or discrete-variable? Sykot says it's typically the continuous-variable one. But my search shows that it's rather the discrete-variable one. My question is, if device-independent QKD can be made to be discrete-variable, then can one extend this scheme for the W-state case? 
 
 
 Link to the AI chat on this topic: https://chat.qwen.ai/c/cb792565-65bd-492d-90b2-9bd470c7fc22 
