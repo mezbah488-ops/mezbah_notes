@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2026.4.9)  18 APR 2026 14:02
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2026.4.9)  19 APR 2026 09:22
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -814,22 +814,24 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 
 [2]
 
-[3] (diary.aux)
+[3]
+
+[4] (diary.aux)
  ***********
 LaTeX2e <2025-06-01> patch level 1
 L3 programming layer <2025-09-02>
  ***********
 Package rerunfilecheck Info: File `diary.out' has not changed.
-(rerunfilecheck)             Checksum: BD940962FE3B8FEAB6B6E1548BAE8538;422.
+(rerunfilecheck)             Checksum: 48DA8F1B9B17F1EEE67B20D1846C6CDE;529.
  ) 
 Here is how much of TeX's memory you used:
- 21727 strings out of 468081
- 404449 string characters out of 5425306
+ 21732 strings out of 468081
+ 404539 string characters out of 5425306
  791635 words of memory out of 5000000
- 50006 multiletter control sequences out of 15000+600000
+ 50009 multiletter control sequences out of 15000+600000
  635774 words of font info for 70 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 102i,6n,107p,1180b,445s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 102i,6n,107p,1180b,505s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <C:\Users\Mezbah\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcr
 m1095.pk><C:/Users/Mezbah/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsf
 onts/cm/cmbx10.pfb><C:/Users/Mezbah/AppData/Local/Programs/MiKTeX/fonts/type1/p
@@ -837,9 +839,9 @@ ublic/amsfonts/cm/cmbx12.pfb><C:/Users/Mezbah/AppData/Local/Programs/MiKTeX/fon
 ts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/Mezbah/AppData/Local/Programs/M
 iKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/Mezbah/AppData/Local/P
 rograms/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb>
-Output written on diary.pdf (3 pages, 79605 bytes).
+Output written on diary.pdf (4 pages, 86434 bytes).
 PDF statistics:
- 76 PDF objects out of 1000 (max. 8388607)
- 9 named destinations out of 1000 (max. 500000)
- 45 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 92 PDF objects out of 1000 (max. 8388607)
+ 11 named destinations out of 1000 (max. 500000)
+ 53 words of extra memory for PDF output out of 10000 (max. 10000000)
 
